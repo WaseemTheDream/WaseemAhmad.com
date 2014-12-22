@@ -1,0 +1,1 @@
+var widgetkitajax="http://localhost:10080/wp-admin/admin-ajax.php?action=widgetkit&ajax=1";

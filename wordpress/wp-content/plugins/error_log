@@ -1,0 +1,1 @@
+[01-Jun-2013 08:28:17] PHP Fatal error:  Call to undefined function  add_action() in /home1/waseemah/public_html/wp-content/plugins/hello.php on line 60
